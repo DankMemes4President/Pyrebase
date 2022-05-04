@@ -1,3 +1,7 @@
+# Note
+
+Forked version of Pyrebase to fix dependency conflict with google-api-core
+
 # Pyrebase
 
 A simple python wrapper for the [Firebase API](https://firebase.google.com).
